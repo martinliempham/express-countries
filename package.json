@@ -1,7 +1,6 @@
 {
   "name": "express-countries",
   "version": "1.0.0",
-  "description": "",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +10,15 @@
   "dependencies": {
     "body-parser": "^1.18.2",
     "express": "^4.15.5"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinliempham/express-countries.git"
+  },
+  "bugs": {
+    "url": "https://github.com/martinliempham/express-countries/issues"
+  },
+  "homepage": "https://github.com/martinliempham/express-countries#readme",
+  "description": ""
 }
